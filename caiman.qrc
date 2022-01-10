@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="caiman">
+    <file>Caiman_logo_FI.png</file>
+  </qresource>
+</RCC>
